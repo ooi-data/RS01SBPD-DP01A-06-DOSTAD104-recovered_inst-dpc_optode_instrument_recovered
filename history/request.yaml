@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS01SBPD-DP01A-06-DOSTAD104-recovered_inst-dpc_optode_instrument_recovered
-last_request: '2021-04-01T02:52:17.274244Z'
+last_request: '2021-05-01T00:47:32.190027Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SBPD-DP01A-06-DOSTAD104-recovered_inst-dpc_optode_instrument_recovered/main/history/response.json
-status: success
+status: pending
